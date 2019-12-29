@@ -1,0 +1,9 @@
+tag:1 num:24
+times)IPP freelistBelowHiPriorityThreshold LLC : (Suppressed interrupt SWITCHINGENGINEMAN-4-IPPLLCINTERRUPTFREELISTBELOWHIPRIORITYTHRESHOLD:
+
+tag:3 num:8
+times)IPP freelistBelowHiPriorityThreshold LLC : (Suppressed SWITCHINGENGINEMAN-6-Itest: IPPLLCINTERRUPTFREELISTBELOWHIPRIORITYTHRESHOLD
+
+tag:2 num:1
+times)IPP freelistBelowHiPriorityThreshold LLC : (Suppressed SWITCHINGENGINEMAN-6-Itest: input
+
